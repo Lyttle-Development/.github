@@ -1,5 +1,5 @@
 # Lyttle Development
-Let the Lyttle things make a difference!
+[Make the Lyttle details, a lasting impression!](https://www.lyttledevelopment.com/)
 
 ## Support Us:
 - [Github Sponser](https://github.com/sponsors/Lyttle-Development)
